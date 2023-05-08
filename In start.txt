@@ -4,3 +4,5 @@ luckly , i discover a class about git and github online
 so
 i crate this txt
 接下来，我将要使用编辑功能，以便展示history的用处
+This about unicorn 
+in unicorn i will use the request
